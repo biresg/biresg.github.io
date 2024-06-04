@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://biresg.github.io/sitemap/sitemap.txt
